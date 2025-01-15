@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wordcounter.skybytelink.space/sitemap.xml
+
