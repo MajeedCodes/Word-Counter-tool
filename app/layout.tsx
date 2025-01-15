@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Elegant Word Counter | Free Online Tool',
   description: 'Experience our beautiful, free online word counter tool. Instantly count words, characters, and more with a sleek, animated interface. Perfect for writers, students, and professionals.',
-  keywords: 'word counter, character count, online tool, writing assistant, text analysis, SEO tool',
+  keywords: 'Word limit checker, Text analyzer, Writing tool, Character limit counter, Content optimizer, SEO analyzer, Readability checker, Grammar checker, Text editor, Word frequency counter, Paragraph length counter, Copywriting tool, Content analysis, SEO word count, Content checker, Word count software, Sentence counter, Word density checker, Copy analysis tool, Text statistics, Writing productivity, Content evaluation, Writing assistant tool, Text optimization, Word count generator, Character counting tool, Article analyzer, Content length checker, Keyword density counter, Writing improvement tool, Blog post optimizer, Article length counter, SEO text analyzer, Online writing assistant, Copy length counter, Readability score checker, Content scoring tool, Digital writing assistant, Text input analysis, Article word count, Text clarity checker, Online word count tool.',
   openGraph: {
     title: 'Elegant Word Counter | Free Online Tool',
     description: 'Instantly count words and characters with our beautiful, animated word counter tool.',
