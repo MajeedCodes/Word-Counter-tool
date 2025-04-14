@@ -24,7 +24,7 @@ const Contact: React.FC = () => {
 
   const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    // Handle form submission (e.g., send to API or email service)
+   
     alert("Thank you for contacting us! We'll get back to you soon.");
     setFormData({ name: "", email: "", message: "" });
   };
