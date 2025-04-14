@@ -1,7 +1,7 @@
 'use client'
 import React, { useState } from "react";
 import Link from "next/link";
-import { FaBars, FaTimes } from "react-icons/fa"; // Importing icons from React Icons
+import { FaBars, FaTimes } from "react-icons/fa"; 
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
